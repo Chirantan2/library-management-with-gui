@@ -20,8 +20,7 @@ $name=$b['name'];
 
 <body>
 <div id="banner">
-<span class="head">Library Management System</span><br />
-<marquee class="clg" direction="right" behavior="alternate" scrollamount="1">Welcome to our Library!</marquee>
+ <br /><center><span class="head">Library Management System</span><br /></center> 
 </div>
 <br />
 
@@ -46,4 +45,4 @@ $name=$b['name'];
 </div>
 </div>
 </body>
-</html><!--  Designed & Developed by Ashish Vegan | technologyvegan@gmail.com | www.ashishvegan.com | This Source Code is NOT FOR SALE-->
+</html> 

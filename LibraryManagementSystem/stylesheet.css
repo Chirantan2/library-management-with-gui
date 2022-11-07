@@ -2,7 +2,6 @@
 /* CSS Document */
 body
 {
-	
 	margin:0px;
 }
 
@@ -12,6 +11,7 @@ body
 	font-size:40px;
 	color:#FFF;
 	margin-left:50px;
+	padding-top: 20px;
 }
 #banner
 {
@@ -49,7 +49,7 @@ body
 {
 	font-family:"Trebuchet MS";
 	font-size:14px;
-	color:#FF3;
+	/* color:#FF3; */
 	border-radius:5px;
 	padding:4px 6px;
 	border:1px solid #FF3;

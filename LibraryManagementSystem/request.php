@@ -34,8 +34,7 @@ if($bn!=NULL && $ba!=NULL)
 
 <body>
 <div id="banner">
-<span class="head">Library Management System</span><br />
-<marquee class="clg" direction="right" behavior="alternate" scrollamount="1">Welcome to our Library!</marquee>
+ <br /><center><span class="head">Library Management System</span><br /></center> 
 </div>
 <br />
 
@@ -65,4 +64,4 @@ if($bn!=NULL && $ba!=NULL)
 </div>
 </div>
 </body>
-</html>
+</html> 
